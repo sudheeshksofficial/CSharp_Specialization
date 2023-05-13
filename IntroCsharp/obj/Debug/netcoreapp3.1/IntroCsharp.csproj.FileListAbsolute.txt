@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.exe
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.deps.json
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.runtimeconfig.json
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.dll
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\bin\Debug\netcoreapp3.1\IntroCsharp.pdb
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.dll
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.pdb
+C:\Users\hp\Desktop\C#_certification_learning\CSharp_Specialization\IntroCsharp\obj\Debug\netcoreapp3.1\IntroCsharp.genruntimeconfig.cache
